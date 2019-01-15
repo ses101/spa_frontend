@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+---
+* Move Transaction components to TransactionSection
+* Create TransactionForm component with input and submit button
+* Create AddTransaction function
+* Add backend (get transaction list, add new transaction)
